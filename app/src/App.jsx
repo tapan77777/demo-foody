@@ -86,7 +86,7 @@ const App = () => {
       <Container>
         <TopContainer>
           <div className="logo">
-            <img src="/logo.svg" alt="logo" />
+            <img src="/food-logo.svg" alt="logo" />
           </div>
 
           <div className="search">
